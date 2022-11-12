@@ -4,7 +4,7 @@ This is a simple hello rails back-end part of the random greetings app front-end
 
 ## APP Frontend
 
-The frontend part of this project:[ Hello React Front End](https://github.com/kwekubright/hello-rails-react-frontend)
+The frontend part of this project:[ Hello React Front End](https://github.com/kwekubright/hello-rails-frontend)
 
 Things you may want to cover:
 
